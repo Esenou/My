@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Кинотеатры</string>
+    <string name="string_click_to_load">Hello world! Now Android</string>
+    <string name="string_some_thing_wrong">Fail</string>
+    <string name="string_internet_connection_not_available">Интернет не доступен</string>
+    <string name="string_getting_json_title">Ждать</string>
+    <string name="string_getting_json_message">Идет загрузка</string>
+
+    <string name="kinoteatr">KinOteatr</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="movies">Movie</string>
+    <string name="Location">Адрес кинотеатра:</string>
+    <string name="Phone">Телефон:</string>
+    <string name="website">Сайт кинотеатра:</string>
+    <string name="Rating">Оценка:</string>
+    <string name="site">Сайт:</string>
+    <string name="primera">Премьера:</string>
+    <string name="country">Страна, год:</string>
+    <string name="rejiser">Режиссер:</string>
+    <string name="actor">Актеры:</string>
+</resources>
